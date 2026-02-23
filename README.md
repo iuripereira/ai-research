@@ -193,7 +193,7 @@ Estes blogs publicam pesquisa de ponta, muitas vezes antes dos papers formais:
 | **Import AI** (Jack Clark) | Semanal | Papers + política de IA, profundo | [importai.net](https://importai.net/) |
 | **Sebastian Raschka's Magazine** | Semanal | Papers de LLM organizados por tópico | [magazine.sebastianraschka.com](https://magazine.sebastianraschka.com/) |
 | **Latent Space** | Semanal | Para AI engineers, muito técnico | [latent.space](https://www.latent.space/) |
-| **Davis Summarizes Papers** | Semanal | Resumos de papers | Substack |
+| **Davis Summarizes Papers** | Semanal | Resumos de papers | [https://dblalock.substack.com/] |
 | **AI Weekly Digest** (Last Week in AI) | Semanal | Resumo abrangente da semana | [lastweekin.ai](https://lastweekin.ai/) |
 
 ### Podcasts Essenciais
@@ -235,6 +235,8 @@ Estes blogs publicam pesquisa de ponta, muitas vezes antes dos papers formais:
 
 ## 5. Rotina Sugerida para se Manter Atualizado
 
+Segue uma dica de rotina para manter-se sempre atualizado:
+
 ### Diário (~15 min)
 1. Ler **The Neuron** ou **The Rundown AI** (newsletter rápida)
 2. Checar **Papers With Code** trending
@@ -256,6 +258,8 @@ Estes blogs publicam pesquisa de ponta, muitas vezes antes dos papers formais:
 - **Alertas**: Configure Google Scholar Alerts para seus termos de interesse
 - **Arxiv Sanity**: Crie perfil e marque papers relevantes para receber recomendações personalizadas
 
+**OBS:** Isso é apenas uma sugestão. Faça do jeito que você quiser com os conteúdos que quiser. Sinta-se a vontade para contribuir. 
+
 ---
 
 ## 6. Dica Extra: Ferramentas de IA para Pesquisa
@@ -270,4 +274,4 @@ Para acelerar a leitura de papers, considere:
 
 ---
 
-*Este guia foi compilado a partir de múltiplas fontes verificadas. Para a versão mais atualizada das listas de pesquisadores e ferramentas, consulte a lista TIME100 AI (time.com) e o relatório Favikon AI200.*
+*Este guia foi compilado a partir de múltiplas fontes verificadas. Ele é o resultado revisado de um prompt executado no Opus 4.6 da Anthropic. É um repositório vivo e tanto pode ser copiado, editado e submetido a colaborações da comunidade. 
