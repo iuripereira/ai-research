@@ -14,7 +14,7 @@
 | **Papers With Code** | [paperswithcode.com](https://paperswithcode.com) | Papers + código-fonte + benchmarks. Mostra trending papers e SOTA por tarefa |
 | **Hugging Face Papers** | [huggingface.co/papers](https://huggingface.co/papers) | Curadoria diária de papers relevantes com discussões da comunidade |
 | **alphaXiv** | [alphaxiv.org](https://www.alphaxiv.org) | Papers do arXiv com resumos simplificados e discussões por blog |
-| **Arxiv Sanity** | [arxiv-sanity-lite.com](http://arxiv-sanity-lite.com) | Criado por Andrej Karpathy. Recomendações personalizadas baseadas nos seus interesses |
+| **Arxiv Sanity** | [arxiv-sanity-lite.com](https://arxiv-sanity-lite.com) | Criado por Andrej Karpathy. Recomendações personalizadas baseadas nos seus interesses |
 | **Cool Papers** | [papers.cool/arxiv/cs.AI](https://papers.cool/arxiv/cs.AI) | Interface visual imersiva para descoberta de papers por área |
 | **DAIR.AI ML Papers of the Week** | [github.com/dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) | Curadoria semanal dos papers mais impactantes. Excelente filtro de ruído |
 | **Awesome AI Papers** | [github.com/aimerou/awesome-ai-papers](https://github.com/aimerou/awesome-ai-papers) | Lista curada classificada por impacto: Históricos (10k+ citações), Importantes (50+), e Tendências |
@@ -30,7 +30,7 @@
 | **Connected Papers** | [connectedpapers.com](https://www.connectedpapers.com) | Grafo visual mostrando conexões entre papers. Ótimo para mapear um campo |
 | **Research Rabbit** | [researchrabbit.ai](https://researchrabbit.ai) | Mapeamento de literatura visual. 100% gratuito. Descobre papers relacionados automaticamente |
 | **Scite.ai** | [scite.ai](https://scite.ai) | Verifica se citações suportam, contradizem ou apenas mencionam um claim |
-| **Ai2 Paper Finder** | [paper-finder.ai2.org](https://allenai.org/blog/paper-finder) | Busca inteligente do Allen AI. Aceita queries complexas em linguagem natural |
+| **Ai2 Paper Finder** | [paperfinder.allen.ai](https://paperfinder.allen.ai/) | Busca inteligente do Allen AI. Aceita queries complexas em linguagem natural |
 
 ### Conferências Top (Onde os Breakthroughs São Publicados)
 
@@ -142,7 +142,7 @@ source:"NeurIPS" "reasoning"
 |---|---|---|---|---|
 | **Geoffrey Hinton** | Independente (ex-Google) | Deep learning, AI Safety | [@geoffreyhinton](https://x.com/geoffreyhinton) | Nobel de Física 2024, Turing Award 2018 |
 | **Yann LeCun** | Meta AI / NYU | CNNs, world models, self-supervised learning | [@ylecun](https://x.com/ylecun) | Turing Award 2018. Muito ativo no X com debates técnicos |
-| **Yoshua Bengio** | Mila / U. Montreal | Deep learning, AI safety, generative flow networks | [@yoshaboris](https://x.com/yoshaboris) | Turing Award 2018 |
+| **Yoshua Bengio** | Mila / U. Montreal | Deep learning, AI safety, generative flow networks | [@Yoshua_Bengio](https://x.com/Yoshua_Bengio) | Turing Award 2018 |
 | **Andrew Ng** | Stanford / DeepLearning.AI / Landing AI | ML educação, data-centric AI | [@AndrewYNg](https://x.com/AndrewYNg) | [LinkedIn](https://linkedin.com/in/andrewyng), Newsletter "The Batch" |
 | **Fei-Fei Li** | Stanford HAI | Visão computacional, AI for social good | [@drfeifei](https://x.com/drfeifei) | Uma das pesquisadoras mais citadas do mundo |
 
@@ -152,12 +152,12 @@ source:"NeurIPS" "reasoning"
 |---|---|---|---|---|
 | **Andrej Karpathy** | Eureka Labs (fundador) | Deep learning, educação em IA, vibe coding | [@karpathy](https://x.com/karpathy) | [YouTube](https://youtube.com/@andrejkarpathy), [karpathy.ai](https://karpathy.ai). Melhor educador técnico em IA |
 | **Ilya Sutskever** | Safe Superintelligence Inc. (SSI) | AGI, AI safety | [@ilyasut](https://x.com/ilyasut) | Co-fundador OpenAI. Posts raros mas impactantes |
-| **Demis Hassabis** | Google DeepMind | AGI, AlphaFold, raciocínio | [@demaboris](https://x.com/demishassabis) | Nobel de Química 2024 |
+| **Demis Hassabis** | Google DeepMind | AGI, AlphaFold, raciocínio | [@demishassabis](https://x.com/demishassabis) | Nobel de Química 2024 |
 | **Dario Amodei** | Anthropic (CEO) | AI safety, scaling | [@DarioAmodei](https://x.com/DarioAmodei) | Co-fundador da Anthropic |
 | **Sam Altman** | OpenAI (CEO) | LLMs, AGI, produto | [@sama](https://x.com/sama) | Figura polarizadora, mas central no ecossistema |
 | **Jensen Huang** | NVIDIA (CEO) | Hardware para IA, GPUs, infraestrutura | Sem conta X ativa | [LinkedIn](https://linkedin.com/in/jenhsunhuang). Keynotes da NVIDIA são essenciais |
-| **Jeremy Howard** | fast.ai / answer.ai | ML prático, democratização de IA | [@jeaboris](https://x.com/jeremyphoward) | [fast.ai](https://fast.ai). Cursos gratuitos de altíssima qualidade |
-| **Sebastian Raschka** | Lightning AI | LLMs, ML prático, educação | [@rasaboris](https://x.com/rasaboris) | [Newsletter no Substack](https://magazine.sebastianraschka.com). Lista curada de papers de LLMs |
+| **Jeremy Howard** | fast.ai / answer.ai | ML prático, democratização de IA | [@jeremyphoward](https://x.com/jeremyphoward) | [fast.ai](https://fast.ai). Cursos gratuitos de altíssima qualidade |
+| **Sebastian Raschka** | Lightning AI | LLMs, ML prático, educação | [@rasbt](https://x.com/rasbt) | [Newsletter no Substack](https://magazine.sebastianraschka.com). Lista curada de papers de LLMs |
 | **Chris Olah** | Anthropic | Interpretabilidade de redes neurais | [@ch402](https://x.com/ch402) | [colah.github.io](https://colah.github.io). Blog icônico de visualização de conceitos de ML |
 | **Lex Fridman** | MIT | Entrevistas com líderes de IA | [@lexfridman](https://x.com/lexfridman) | [YouTube](https://youtube.com/@lexfridman). Podcast essencial |
 | **Aravind Srinivas** | Perplexity (CEO) | AI search, information retrieval | [@AravSrinivas](https://x.com/AravSrinivas) | Construindo o futuro da busca com IA |
@@ -174,7 +174,7 @@ Estes blogs publicam pesquisa de ponta, muitas vezes antes dos papers formais:
 | **Anthropic** | [anthropic.com/research](https://www.anthropic.com/research) |
 | **Meta AI (FAIR)** | [ai.meta.com/research](https://ai.meta.com/research) |
 | **Google AI** | [ai.google/research](https://ai.google/research) |
-| **Microsoft Research** | [microsoft.com/en-us/research/lab/ai](https://www.microsoft.com/en-us/research/) |
+| **Microsoft Research** | [microsoft.com/en-us/research](https://www.microsoft.com/en-us/research/) |
 | **NVIDIA Research** | [research.nvidia.com](https://research.nvidia.com) |
 | **DeepSeek** | [github.com/deepseek-ai](https://github.com/deepseek-ai) |
 | **Allen AI (Ai2)** | [allenai.org/blog](https://allenai.org/blog) |
@@ -190,10 +190,10 @@ Estes blogs publicam pesquisa de ponta, muitas vezes antes dos papers formais:
 | **The Batch** (Andrew Ng) | Semanal | Pesquisa + indústria, acessível | [deeplearning.ai/the-batch](https://www.deeplearning.ai/the-batch/) |
 | **The Rundown AI** | Diária | Notícias práticas, 1M+ assinantes | [therundown.ai](https://www.therundown.ai/) |
 | **The Neuron** | Diária | Trends + ferramentas, 3 min de leitura | [theneurondaily.com](https://www.theneurondaily.com/) |
-| **Import AI** (Jack Clark) | Semanal | Papers + política de IA, profundo | [importai.net](https://importai.net/) |
+| **Import AI** (Jack Clark) | Semanal | Papers + política de IA, profundo | [jack-clark.net](https://jack-clark.net/) |
 | **Sebastian Raschka's Magazine** | Semanal | Papers de LLM organizados por tópico | [magazine.sebastianraschka.com](https://magazine.sebastianraschka.com/) |
 | **Latent Space** | Semanal | Para AI engineers, muito técnico | [latent.space](https://www.latent.space/) |
-| **Davis Summarizes Papers** | Semanal | Resumos de papers | [https://dblalock.substack.com/] |
+| **Davis Summarizes Papers** | Semanal | Resumos de papers | [dblalock.substack.com](https://dblalock.substack.com/) |
 | **AI Weekly Digest** (Last Week in AI) | Semanal | Resumo abrangente da semana | [lastweekin.ai](https://lastweekin.ai/) |
 
 ### Podcasts Essenciais
